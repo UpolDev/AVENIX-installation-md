@@ -14,7 +14,7 @@ runtime.
 Set your deployed API origin:
 
 ``` bash
-export BASE_URL="http://localhost:3000"
+export BASE_URL="https://upolzrv-avenix.onrender.com"
 ```
 
 After a successful login OTP verification or email registration
